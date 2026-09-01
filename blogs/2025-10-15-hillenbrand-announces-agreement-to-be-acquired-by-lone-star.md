@@ -1,5 +1,5 @@
 ---
-title: "Hillenbrand Announces Agreement to Be Acquired by Lone Star for \$32.00 Per Share"
+title: "Hillenbrand Announces Agreement to Be Acquired by Lone Star for $32.00 Per Share"
 url: "https://hillenbrand.com/corporate-news/hillenbrand-announces-agreement-to-be-acquired-by-lone-star-for-32-00-per-share/"
 date: "2025-10-15"
 author: ""
